@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amiyasahu/simple-dcf-calculator/static/css/main.9ce07020.css",
+    "main.js": "/amiyasahu/simple-dcf-calculator/static/js/main.4a96ebfa.js",
+    "static/js/787.d29842fc.chunk.js": "/amiyasahu/simple-dcf-calculator/static/js/787.d29842fc.chunk.js",
+    "index.html": "/amiyasahu/simple-dcf-calculator/index.html",
+    "main.9ce07020.css.map": "/amiyasahu/simple-dcf-calculator/static/css/main.9ce07020.css.map",
+    "main.4a96ebfa.js.map": "/amiyasahu/simple-dcf-calculator/static/js/main.4a96ebfa.js.map",
+    "787.d29842fc.chunk.js.map": "/amiyasahu/simple-dcf-calculator/static/js/787.d29842fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ce07020.css",
+    "static/js/main.4a96ebfa.js"
+  ]
+}
